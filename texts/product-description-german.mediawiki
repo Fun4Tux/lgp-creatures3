@@ -1,0 +1,89 @@
+==Preview==
+<p>Eine wundersame virtuelle, vielf&auml;ltige Welt erwartet Sie hier.</p>
+
+==Text==
+<p><strong><strong><strong>Das Spiel</strong></strong><br /></strong></p>
+<p>Willkommen bei Creatures 3! Vor mehr als Tausend Jahren verlie&szlig; die uralte Zivilisation der Shee den Planeten Albia. In einem riesigen Raumschiff begannen sie die Suche nach einer neuen Heimat. Als die Grendels sie auf diesem Flug angriffen, fl&uuml;chteten die Shee auf die Oberfl&auml;che eines neuen Planeten und lie&szlig;en die Norns mit den Grendels auf dem Raumschiff in der Umlaufbahn zur&uuml;ck. Zum Gl&uuml;ck sind die Norns nicht allein. Mit Ihrer Hilfe k&ouml;nnen sie wachsen und gedeihen. Au&szlig;erdem gibt es eine ganze Reihe fortschrittlicher Maschinen, die Sie sogar miteinander verbinden k&ouml;nnen, um so riesige Supermaschinen zu bauen. Besch&uuml;tzen Sie Ihre Norns vor den gemeinen Grendels, einer b&ouml;sartigen Mutantenrasse. Denn selbst in einer virtuellen Welt gibt es echte Gefahren.</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/creatures-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>3+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch (Deutsch, Spanisch, Franz&ouml;sisch, Hollandisch, Italienisch ebenfalls dabei, aber nicht offiziell supportet)</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/creatures/">Demo f&uuml;r Creatures Internet Edition</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/creatures/">Updates f&uuml;r Creatures Internet Edition</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>CD und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong><strong><strong>Minimale Systemanforderungen</strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>200 MHz x86 Pentium II Prozessor<br /></td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>Grafikkarte mit 8 MB Ram<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>64 MB<br /></td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>400 MB</td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>ALSA oder OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+<tr>
+<td>sonstige Software</td>
+<td>GTK 1.2, wget, lynx, bzip2</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,89 @@
+==Preview==
+<p>Creatures Internet Edition allows you to control the evolution of a species.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Creatures Internet Edition allows you to control the evolution of a species. The Norns are rather cute-looking creatures trapped aboard an interstellar spaceship, and they are in need of guidance to help them survive the trip. <br /><br />Selectively breed your Norns and teach them how to perform tasks as they travel through deep space. Innovative AI technology means that these creatures learn as you teach them, and gain characteristics representative of their upbringing. <br /><br />Creatures: Internet Edition includes Creatures 3 and the Creatures Docking Station expansion. <br /><br />Nominated for a 2001 interactive BAFTA award, Creatures is a best-of-class for simulation games, and the series has been winning awards since its first release in 1997.</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video src="http://videos.fun4tux.ch/creatures-trailer-en.ogg" width="515" controls="true"></video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>3+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English (German, Spanish, French, Dutch, Italian also included, but not officially supported)</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/creatures/">Demo for Creatures Internet Edition</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/creatures/">Updates for Creatures Internet Edition</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>200 MHz x86 Pentium II Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 8 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>64 MB<br /></td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>400 MB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>OSS Compatible<br /></td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+<tr>
+<td>Other Software</td>
+<td>GTK 1.2 libraries, wget, lynx, bzip2</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
