@@ -29,11 +29,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/creatures/">Demo for Creatures Internet Edition</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/creatures/">Demo for Creatures Internet Edition</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/creatures/">Updates for Creatures Internet Edition</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/creatures/">Updates for Creatures Internet Edition</a></td>
 </tr>
 <tr>
 <td>Condition</td>

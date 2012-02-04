@@ -30,11 +30,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/creatures/">Demo f&uuml;r Creatures Internet Edition</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/creatures/">Demo f&uuml;r Creatures Internet Edition</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/creatures/">Updates f&uuml;r Creatures Internet Edition</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/creatures/">Updates f&uuml;r Creatures Internet Edition</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
